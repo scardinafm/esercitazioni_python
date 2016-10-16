@@ -33,7 +33,7 @@ plt.show()
 X=[0.0,1.0]
 Y=[0.0,2.0]
 U=[2.0,1.0]
-V=[5.0,6.0]
+V=[5.0,600.0]
 plt.quiver(X, Y, U, V, angles='xy', scale_units='xy', scale=1)
 # Set the x axis limits
 plt.xlim([0,10])
